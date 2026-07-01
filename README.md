@@ -1,47 +1,40 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B4A7D6&height=200&section=header&text=iamjunyeong&fontSize=90&fontColor=5E5858)
+# Junyeong Kim
 
-```
- __________________________________
-< 제 깃허브에 어서오세요 >
- ----------------------------------
-          \
-           \
-            \          __---__
-                    _-       /--______
-               __--( /     \ )XXXXXXXXXXX\v.
-             .-XXX(   O   O  )XXXXXXXXXXXXXXX-
-            /XXX(       U     )        XXXXXXX\
-          /XXXXX(              )--_  XXXXXXXXXXX\
-         /XXXXX/ (      O     )   XXXXXX   \XXXXX\
-         XXXXX/   /            XXXXXX   \__ \XXXXX
-         XXXXXX__/          XXXXXX         \__---->
- ---___  XXX__/          XXXXXX      \__         /
-   \-  --__/   ___/\  XXXXXX            /  ___--/=
-    \-\    ___/    XXXXXX              '--- XXXXXX
-       \-\/XXX\ XXXXXX                      /XXXXX
-         \XXXXXXXXX   \                    /XXXXX/
-          \XXXXXX      >                 _/XXXXX/
-            \XXXXX--__/              __-- XXXX/
-             -XXXXXXXX---------------  XXXXXX-
-                \XXXXXXXXXXXXXXXXXXXXXXXXXX/
-                  ""VXXXXXXXXXXXXXXXXXXV""
-```
+Frontend Engineer working on security and infrastructure SaaS.
 
-### Platforms & Languages
-![React logo](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=Styled%20Components&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
-![javascript logo](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+I currently work at AlpacaX, where I build and maintain the frontend of Alpacon, a web console for secure server access, workspace permission management, cloud onboarding, approvals, and audit workflows.
 
-![Python logo](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![mysql logo](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![django logo](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+Most of my recent production work is in private company repositories, so this profile does not fully reflect the work I do day to day.
 
+## What I Work On
 
+- Auth0, MFA, RBAC/IAM, service token, and approval flows
+- Work Session, Web Shell, WebFTP, and server access UX
+- Cloud onboarding, instance discovery, and agent installation flows
+- React Query, WebSocket, polling, and URL state for async UI stability
+- UI/UX for complex security and infrastructure workflows
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+## Current Focus
 
+- Designing frontend flows that reflect backend security contracts clearly
+- Reducing stale UI, redirect loops, and async state mismatches
+- Structuring permission-heavy screens so users can understand what they can do and why
+- Using AI-assisted development while reviewing generated code against product context, edge cases, and maintainability
 
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A.svg?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424.svg?style=flat-square&logo=auth0&logoColor=white)
+
+## Links
+
+- LinkedIn: TODO
+- Portfolio: TODO
+
+---
+
+Trying to make complex workflows feel a little less scary.
