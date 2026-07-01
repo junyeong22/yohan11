@@ -1,25 +1,27 @@
 # Junyeong Kim
 
-Frontend Engineer working on security and infrastructure SaaS.
+Frontend Engineer
 
-I currently work at AlpacaX, where I build and maintain the frontend of Alpacon, a web console for secure server access, workspace permission management, cloud onboarding, approvals, and audit workflows.
+I develop the web frontend for **Alpacon**, a security and infrastructure SaaS product.
 
-Most of my recent production work is in private company repositories, so this profile does not fully reflect the work I do day to day.
+## About
+
+- B.S. in Industrial Security, Dankook University (2024.02)
+- AlpacaX Frontend Engineer (2024.06 ~ )
 
 ## What I Work On
 
-- Auth0, MFA, RBAC/IAM, service token, and approval flows
-- Work Session, Web Shell, WebFTP, and server access UX
-- Cloud onboarding, instance discovery, and agent installation flows
-- React Query, WebSocket, polling, and URL state for async UI stability
-- UI/UX for complex security and infrastructure workflows
+- Product flows where policies matter, such as authentication, permissions, and approvals
+- Async UI where server state and user state change together
+- Multi-step workflows such as onboarding, settings, and admin screens
+- State management with React Query, WebSocket, polling, and URL state
+- Interface patterns for workflow-heavy admin products
 
 ## Current Focus
 
-- Designing frontend flows that reflect backend security contracts clearly
-- Reducing stale UI, redirect loops, and async state mismatches
-- Structuring permission-heavy screens so users can understand what they can do and why
-- Using AI-assisted development while reviewing generated code against product context, edge cases, and maintainability
+- Turning complex states into UI structures users can understand
+- Reducing stale UI and broken flows across async data sources
+- Making sensitive workflows safer and more predictable
 
 ## Tech Stack
 
@@ -30,11 +32,14 @@ Most of my recent production work is in private company repositories, so this pr
 ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=flat-square&logo=reactquery&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424.svg?style=flat-square&logo=auth0&logoColor=white)
 
-## Links
-
-- LinkedIn: TODO
-- Portfolio: TODO
-
 ---
 
-Trying to make complex workflows feel a little less scary.
+```txt
+ __________________________________________
+< Trying to make complex workflows          >
+< feel a little less scary.                 >
+ ------------------------------------------
+        \   (^_^)
+         \  /| |\
+            /   \
+```
